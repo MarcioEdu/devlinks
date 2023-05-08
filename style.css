@@ -36,7 +36,8 @@ body * {
 }
 
 #container {
-  width: 36rem;
+  width: 100%;
+  max-width: 58.8rem;
   padding: 0 2.4rem;
   margin: 5.6rem auto 0px;
 }
@@ -93,7 +94,6 @@ body * {
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
   border-radius: 99.9rem;
-  
 }
 
 /*links*/
